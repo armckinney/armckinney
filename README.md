@@ -5,9 +5,7 @@
 I like to build cool stuff.
 I dream big and think big - looking for that next oh-that's-so-awesome project.
 
-I have a background in Chemical Engineering and worked previously in the 
-aerospace industry; but just because I'm not helping planes get in the air anymore, 
-doesn't mean I'm not working in the CLOUDS!
+I have a background in Chemical Engineering and worked previously in the aerospace industry; but just because I'm not helping planes get in the air anymore, doesn't mean I'm not working in the CLOUDS!
 ```
 </br>
 
