@@ -101,11 +101,11 @@ but just because I'm not helping planes get in the air anymore, doesn't mean I'm
     <a href="https://www.linkedin.com/in/drew-mckinney/">
         <img src="https://github.com/ARMcK-hub/ARMcK-hub/blob/main/static/images/linkedin.png?raw=true"/>
     </a>
+    <a href="https://armck-hub.github.io">
+        <img src="https://github.com/ARMcK-hub/ARMcK-hub/blob/main/static/images/arm-sciences.png?raw=true"/>
+    </a>
     <a href="mailto:armck.phantom@gmail.com" target="_blank">
         <img src="https://github.com/ARMcK-hub/ARMcK-hub/blob/main/static/images/email-sign.png?raw=true"/>
-    </a>
-    <a href="https://armck-hub.github.io">
-        <img src="https://github.com/ARMcK-hub/ARMcK-hub/blob/main/static/images/website.png?raw=true"/>
     </a>
 </div>
 
