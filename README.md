@@ -93,12 +93,12 @@ but just because I'm not helping planes get in the air anymore, doesn't mean I'm
     </a>
 </div>
 <div align="center">
-    <h6>
+    <h5>
         Can't find what you're looking for? 
-    </h6>
-    <p>
+    </h5>
+    <h6>
         Check out my <a href="https://stackshare.io/armck-hub">StackShare</a>!
-    </p>
+    </h6>
 </div>
 </br>
 
