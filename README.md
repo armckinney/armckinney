@@ -127,5 +127,3 @@ but just because I'm not helping planes get in the air anymore, doesn't mean I'm
 </div>
 
 <!-- Icon Source: https://icons8.com/ -->
-
-<a data-theme="dark" data-layers="1,2,3,4" data-stack-embed="true" href="https://embed.stackshare.io/stacks/embed/0246184fa01d0e6022bf84185cc36c"></a><script async src="https://cdn1.stackshare.io/javascripts/client-code.js" charset="utf-8"></script>
