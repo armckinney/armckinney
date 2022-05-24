@@ -2,7 +2,7 @@ apt-get update
 apt-get install -y curl wget git unzip ranger bat neofetch
 
 # ranger config
-curl -o ~/.config/ranger/rc.conf https://raw.githubusercontent.com/ARMcK-hub/containers/setup/terminal/config/rc.conf
+curl -o ~/.config/ranger/rc.conf https://raw.githubusercontent.com/ARMcK-hub/ARMcK-hub/local-add-setup-automation/setup/bash/config/rc.conf
 
 # micro instal; and setup
 curl https://getmic.ro | bash && mv ./micro /usr/local/bin/
@@ -17,7 +17,7 @@ sudo fc-cache
 wget https://github.com/JanDeDobbeleer/oh-my-posh/releases/latest/download/posh-linux-amd64 -O /usr/local/bin/oh-my-posh
 chmod +x /usr/local/bin/oh-my-posh
 mkdir ~/.poshthemes
-curl https://raw.githubusercontent.com/ARMcK-Hub/containers/setup/terminal/config/armck.omp.json
+curl https://raw.githubusercontent.com/ARMcK-Hub/ARMcK-hub/setup/bash/config/armck.omp.json
 echo -e '\n#oh-my-posh\neval "$(oh-my-posh init bash --config ~/.poshthemes/armck.omp.json)"\n' >> ~/.bash.rc
 
 # bat alias
