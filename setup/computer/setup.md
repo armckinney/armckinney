@@ -63,12 +63,8 @@
 
 ## Home Server:
 - Brave, git, Docker Desktop, ranger, micro, VSCode
-- Install Virt-Manager
-  - https://www.linux-kvm.org/page/Main_Page : linux virualization 
-  - https://www.qemu.org/download/#linux : emulation / virtualization app
-  - https://libvirt.org/ : qemu visual module
-  - https://virt-manager.org/ : vm gui
-  - https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/5/html/virtualization/chap-virtualization-managing_guests_with_virsh : vm cli
+- Install qemu and livbirt: https://ubuntu.com/server/docs/virtualization-libvirt
+- Install Virt-Manager `apt-get install virt-manager`
 - Create Virtual Machines
   - OpenMediaVault: https://www.openmediavault.org/?page_id=77
   - Minecraft Server: ?docker
