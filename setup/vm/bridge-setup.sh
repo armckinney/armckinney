@@ -54,9 +54,6 @@ EOF
 sudo systemctl stop NetworkManager
 sudo systemctl disable NetworkManager
 
-# disabling auto-start default network (virbr0)
-sudo virsh net-autostart --disable default
-
 # restart systemd-networkd to apply network configuration
 sudo systemctl restart systemd-networkd
 
