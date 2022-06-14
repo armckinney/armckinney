@@ -121,7 +121,7 @@ but just because I'm not helping planes get in the air anymore, doesn't mean I'm
     <a href="https://hub.docker.com/u/armck">
         <img src="./static/images/dockerhub.png">
     </a>
-    <a href="https://stackshare.io/armckinney">
+    <a href="https://stackshare.io/armck">
         <img src="./static/images/stackshare.png">
     </a>
 </div>
