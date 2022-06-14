@@ -22,7 +22,7 @@
 - Linux Specific Packages and setup:
   - Configure Mounts: `curl -o /fstab <hosted-fstab-file> && sudo mount -a` (or mount Windows Drives `mount -t drvfs C: /mnt/c`)
   - Install ranger: `apt-get install ranger`
-    - Use Archived Config for key maps: `curl -o ~/.config/ranger/rc.conf https://raw.githubusercontent.com/ARMcK-Hub/<hosted-rc.conf-file>`
+    - Use Archived Config for key maps: `curl -o ~/.config/ranger/rc.conf https://raw.githubusercontent.com/armckinney/<hosted-rc.conf-file>`
   - Install micro: `curl https://getmic.ro | bash`
     - [WIN]Enable Terminal Clipboard to work in WSL: `echo '{"clipboard": "terminal"}' > ~/.config/micro/settings.json`
   - Install bat: `sudo apt install -y bat && mkdir -p ~/.local/bin && ln -s /usr/bin/batcat ~/.local/bin/bat`

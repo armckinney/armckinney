@@ -15,7 +15,7 @@ but just because I'm not helping planes get in the air anymore, doesn't mean I'm
 
 <!-- Github Stats -->
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ARMcK-hub&theme=onedark&show_icons=true&count_private=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=armckinney&theme=onedark&show_icons=true&count_private=true">
 </div>
 </br>
 
@@ -97,7 +97,7 @@ but just because I'm not helping planes get in the air anymore, doesn't mean I'm
         Can't find what you're looking for? 
     </h5>
     <h6>
-        Check out my <a href="https://stackshare.io/armck-hub">StackShare</a>!
+        Check out my <a href="https://stackshare.io/armckinney">StackShare</a>!
     </h6>
 </div>
 </br>
@@ -112,16 +112,16 @@ but just because I'm not helping planes get in the air anymore, doesn't mean I'm
     <a href="https://www.hackerrank.com/Armck">
         <img src="./static/images/hackerrank.png">
     </a>
-    <a href="https://armck-hub.github.io">
+    <a href="https://armckinney.github.io">
         <img src="./static/images/arm-sciences.png"/>
     </a>
-    <a href="https://github.com/ARMcK-hub">
+    <a href="https://github.com/armckinney">
         <img src="./static/images/github.png">
     </a>
     <a href="https://hub.docker.com/u/armck">
         <img src="./static/images/dockerhub.png">
     </a>
-    <a href="https://stackshare.io/armck-hub">
+    <a href="https://stackshare.io/armckinney">
         <img src="./static/images/stackshare.png">
     </a>
 </div>
