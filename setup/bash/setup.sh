@@ -1,10 +1,10 @@
 apt-get update
-apt-get install -y curl wget git unzip ranger bat neofetch
+apt-get install -y curl wget git unzip ruby ruby-dev ruby-colorize build-essential ranger bat neofetch
 
 # ranger config
 sudo curl -o ~/.config/ranger/rc.conf https://raw.githubusercontent.com/armckinney/armckinney/local-add-setup-automation/setup/bash/config/rc.conf
 
-# microS instal; and setup
+# micro install and setup
 sudo curl https://getmic.ro | bash && mv ./micro /usr/local/bin/
 echo '{"clipboard": "terminal"}' > ~/.config/micro/settings.json
 
@@ -19,13 +19,17 @@ sudo wget https://github.com/JanDeDobbeleer/oh-my-posh/releases/latest/download/
 chmod +x /usr/local/bin/oh-my-posh
 mkdir ~/.poshthemes
 sudo curl https://raw.githubusercontent.com/armckinney/armckinney/setup/bash/config/armck.omp.json
-echo -e '\n#oh-my-posh\neval "$(oh-my-posh init bash --config ~/.poshthemes/armck.omp.json)"\n' >> ~/.bash.rc
+echo -e '\n# oh-my-posh\neval "$(oh-my-posh init bash --config ~/.poshthemes/armck.omp.json)"\n' >> ~/.bash.rc
 
-# bat alias
+# colorls install and alias
+sudo gem install colorls
+echo -e "# colorls alias\nalias lc='colorls -a --sd'\nalias llc='colorls -la --sd'\n" >> ~/.bashrc
+
+# batcat alias
 sudo mkdir -p ~/.local/bin && ln -s /usr/bin/batcat ~/.local/bin/bat
 
 # neofetch to bashrc
-echo -e "\n# run neofetch on startup\nneofetch\n" >> ~/.bashrc
+echo -e "# run neofetch on startup\nneofetch\n" >> ~/.bashrc
 
 # restart shell
 exec bash
