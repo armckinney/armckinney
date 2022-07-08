@@ -38,8 +38,10 @@
   	  - yzhang.markdown-all-in-one
   	  - ms-vscode.powershell
 - Install Docker Desktop: https://docs.docker.com/get-docker/
-- Install Notepad++: https://notepad-plus-plus.org/downloads/
-  - Enable dark mode
+- Install Obsidian: https://notepad-plus-plus.org/downloads/
+  - Plugins
+    - Kanban
+    - Advanced Tables 
 - Install Powershell: https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell
 - Install DBeaver CE: https://dbeaver.io/download/
 - Install Calibre: https://calibre-ebook.com/download
