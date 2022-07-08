@@ -38,7 +38,7 @@
   	  - yzhang.markdown-all-in-one
   	  - ms-vscode.powershell
 - Install Docker Desktop: https://docs.docker.com/get-docker/
-- Install Obsidian: https://notepad-plus-plus.org/downloads/
+- Install Obsidian: https://obsidian.md/
   - Plugins
     - Kanban
     - Advanced Tables 
