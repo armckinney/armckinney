@@ -96,7 +96,7 @@ my work still involves clouds, but these are slightly different and arguably fas
         Can't find what you're looking for? 
     </h5>
     <h6>
-        Check out my <a href="https://stackshare.io/armckinney">StackShare</a>!
+        Check out my <a href="https://stackshare.io/armck">StackShare</a>!
     </h6>
 </div>
 </br>
