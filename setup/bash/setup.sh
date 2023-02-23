@@ -18,7 +18,7 @@ fc-cache -fv
 sudo wget https://github.com/JanDeDobbeleer/oh-my-posh/releases/latest/download/posh-linux-amd64 -O /usr/local/bin/oh-my-posh
 chmod +x /usr/local/bin/oh-my-posh
 mkdir ~/.poshthemes
-sudo curl https://raw.githubusercontent.com/armckinney/armckinney/setup/bash/config/armck.omp.json -o ~/.poshthemes/armck.omp.json
+sudo curl https://raw.githubusercontent.com/armckinney/armckinney/main/setup/bash/config/armck.omp.json -o ~/.poshthemes/armck.omp.json
 echo -e '\n# oh-my-posh\neval "$(oh-my-posh init bash --config ~/.poshthemes/armck.omp.json)"\n' >> ~/.bashrc
 
 # colorls install and alias
