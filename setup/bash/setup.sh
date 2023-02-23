@@ -1,5 +1,5 @@
 apt-get update
-apt-get install -y curl wget git unzip ruby ruby-dev ruby-colorize build-essential ranger bat neofetch
+apt-get install -y sudo curl wget git unzip ruby ruby-dev ruby-colorize build-essential ranger bat neofetch
 
 # ranger config
 sudo curl -o ~/.config/ranger/rc.conf https://raw.githubusercontent.com/armckinney/armckinney/local-add-setup-automation/setup/bash/config/rc.conf
