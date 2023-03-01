@@ -29,7 +29,7 @@ echo -e "# colorls alias\nalias lc='colorls -a --sd'\nalias llc='colorls -la --s
 sudo mkdir -p ~/.local/bin && ln -s /usr/bin/batcat ~/.local/bin/bat
 
 # neofetch to bashrc
-echo -e "# run neofetch on startup\nneofetch\n" >> ~/.bashrc
+echo -e "# run neofetch on startup\nif [ $(ps -o comm= -p $PPID) == 'init' ]; then neofetch; fi;\n" >> ~/.bashrc
 
 # restart shell
 exec bash
