@@ -5,7 +5,13 @@
 I like to build cool stuff.
 
 I have a background in Chemical Engineering and worked previously in the aerospace industry; 
-my work still involves clouds, but these are slightly different and arguably faster.
+my work still involves clouds, but these are slightly different and arguably bigger.
+
+Visionary developer and experienced engineer.  
+Skilled in various technologies such as Python, Apache Spark, .NET, and Azure Solutions Architecture.  
+Savors empowering a difference with reason and data.  
+Strong emphasis on driving value-add in continuous improvement environments.  
+Curious what innovations we will build next.  
 ```
 </br>
 
@@ -108,20 +114,17 @@ my work still involves clouds, but these are slightly different and arguably fas
     <a href="https://www.linkedin.com/in/drew-mckinney/">
         <img src="./static/images/linkedin.png"/>
     </a>
-    <a href="https://www.hackerrank.com/Armck">
-        <img src="./static/images/hackerrank.png">
-    </a>
     <a href="https://armckinney.github.io">
         <img src="./static/images/arm-sciences.png"/>
+    </a>
+        <a href="https://stackshare.io/armck">
+        <img src="./static/images/stackshare.png">
     </a>
     <a href="https://github.com/armckinney">
         <img src="./static/images/github.png">
     </a>
     <a href="https://hub.docker.com/u/armck">
         <img src="./static/images/dockerhub.png">
-    </a>
-    <a href="https://stackshare.io/armck">
-        <img src="./static/images/stackshare.png">
     </a>
 </div>
 
