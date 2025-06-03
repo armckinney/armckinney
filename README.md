@@ -7,9 +7,12 @@ I am a builder.
 I have a background in Chemical Engineering and worked previously in the aerospace industry; 
 my work still involves clouds, but these are slightly different and arguably bigger.
 
-Innovative engineer with over 5 years experience in software design and elastic scaling platform development as a Tech Lead.  
-Skilled in various SWE principals such as Network Based Security, Data Governance, DevOps, System Design, OOP, Design Patterns, and Data Structures & Algorithms.  
-Emphasis on driving organization-wide, valuable solutions through transparent stakeholder management and engagement.  
+Innovative engineer with over 5 years experience in software design
+and elastic scaling platform development as a Tech Lead.  
+Skilled in various SWE principals such as Network Based Security, Data Governance,
+DevOps, System Design, OOP, Design Patterns, and Data Structures & Algorithms.  
+Emphasis on driving organization-wide, valuable solutions
+through transparent stakeholder management and engagement.  
 ```
 </br>
 
