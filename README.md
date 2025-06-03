@@ -118,12 +118,6 @@ Curious what innovations we will build next.
     <a href="https://armckinney.github.io">
         <img src="./static/images/arm-sciences.png"/>
     </a>
-        <a href="https://stackshare.io/armck">
-        <img src="./static/images/stackshare.png">
-    </a>
-    <a href="https://github.com/armckinney">
-        <img src="./static/images/github.png">
-    </a>
     <a href="https://hub.docker.com/u/armck">
         <img src="./static/images/dockerhub.png">
     </a>
