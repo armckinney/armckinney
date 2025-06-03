@@ -2,16 +2,14 @@
 <h1 align="center">Hi, I'm Drew.</h1>
 
 ```
-I like to build cool stuff.
+I am a builder.
 
 I have a background in Chemical Engineering and worked previously in the aerospace industry; 
 my work still involves clouds, but these are slightly different and arguably bigger.
 
-Visionary developer and experienced engineer.  
-Skilled in various technologies such as Python, Apache Spark, .NET, and Azure Solutions Architecture.  
-Savors empowering a difference with reason and data.  
-Strong emphasis on driving value-add in continuous improvement environments.  
-Curious what innovations we will build next.  
+Innovative engineer with over 5 years experience in software design and elastic scaling platform development as a Tech Lead.
+Skilled in various SWE principals such as Network Based Security, Data Governance, DevOps, System Design, OOP, Design Patterns, and Data Structures & Algorithms.
+Emphasis on driving organization-wide, valuable solutions through transparent stakeholder management and engagement.
 ```
 </br>
 
@@ -103,7 +101,7 @@ Curious what innovations we will build next.
         Can't find what you're looking for? 
     </h5>
     <h6 style="margin-top: 0">
-        There's many more I have experience with listed on my <a href="https://stackshare.io/armck">StackShare</a>!
+        There's many more I have experience with listed on my <a href="https://www.linkedin.com/in/drew-mckinney/details/skills/">LinkedIn Skills</a>!
     </h6>
 </div>
 </br>
