@@ -1,5 +1,5 @@
 # Template Improvement Proposal
-> Title: TODO
+> Title: TODO  
 > Status: TODO  
 > Stakeholders: TODO, TODO  
 > Author: TODO  
@@ -11,8 +11,8 @@
 TODO - What is the background and business reason for completing this improvement?
 
 ## Scope
-TODO - What is in scope of this proposal? What do we plan to solve?
-TODO - What is not in scope of this proposal? What do we explicitly do not intend to solve?
+TODO - What is in scope of this proposal? What do we plan to solve?  
+TODO - What is not in scope of this proposal? What do we explicitly do not intend to solve?  
 
 ## Requirements
 TODO - what is required to resolve the issues outlined?
@@ -60,13 +60,13 @@ TODDO
 #### Compatability
 TODO
 #### Maintainability
-TODO - Maintain: What are expected maintenance items for each part of the proposed solution? How often will they need to be completed? How would they be completed? 
-TODO - Monitor: How can we monitor the solution for various design aspects (security - access/governance, efficiency - performance/scalability/cost, reliability - availability/durability, flexibility - portability/compatibility/maintainability/usability)
+TODO - Maintain: What are expected maintenance items for each part of the proposed solution? How often will they need to be completed? How would they be completed?  
+TODO - Monitor: How can we monitor the solution for various design aspects (security - access/governance, efficiency - performance/scalability/cost, reliability - availability/durability, flexibility - portability/compatibility/maintainability/usability)  
 #### Usability
 TODO
 
 ## Implementation Plan
-TODO - How can we implement this solution?
+TODO - How can we implement this solution?  
 TODO - How can we validate our solution is in place and operates as intended?
 
 ## Alternatives Considered
