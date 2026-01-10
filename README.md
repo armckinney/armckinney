@@ -1,127 +1,96 @@
-<!-- Header -->
-<h1 align="center">Hi, I'm Drew.</h1>
+# Andrew McKinney
 
+![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)
+![Years of Experience](https://img.shields.io/badge/experience-5%2B%20years-orange.svg)
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
+[![Portfolio](https://img.shields.io/badge/demo-armckinney.dev-blueviolet.svg)](https://armckinney.dev)
+
+Platform Engineer, AI Enthusiast, and Innovative Problem Solver. I specialize in building scalable applications, architecting cost-effective cloud infrastructure, and enhancing user experience and composable architectures.
+
+I hope you find the following information both informative and enjoyable!
+
+**[Explore my Portfolio »][portfolio]**
+
+---
+
+## 🚀 Getting Started
+
+To interact with this "project", you can reach out via the following methods.
+
+### Installation
+
+Download the source (connect with me) to get started:
+
+```bash
+curl -o andrewryanmckinney.html https://linkedin.com/in/drew-mckinney
 ```
-I am a builder.
 
-I have a background in Chemical Engineering and worked previously in the aerospace industry; 
-my work still involves clouds, but these are slightly different and arguably bigger.
+Or install via direct communication:
 
-Innovative engineer with over 5 years experience in software design
-and elastic scaling platform development as a Tech Lead.  
-Skilled in various SWE principals such as Network Based Security, Data Governance,
-DevOps, System Design, OOP, Design Patterns, and Data Structures & Algorithms.  
-Emphasis on driving organization-wide, valuable solutions
-through transparent stakeholder management and engagement.  
+```bash
+mail -s "Let's Connect!" andrewryanmckinney@gmail.com
 ```
-</br>
+
+## 🛠 Usage
+
+Use this package to add a dedicated problem solver and platform engineer to your team.
+
+```python
+from engineers import AndrewMcKinney
+
+# Initialize
+drew = AndrewMcKinney(role="Lead Engineer")
+
+# Main Event Loop
+while project.is_active():
+    challenge = project.get_next_challenge()
+    stakeholder_requirements = project.get_stakeholder_requirements()
+
+    # Lead by example: Validate feasibility first
+    poc = drew.develop_proof_of_concept(challenge)
+
+    # Architect scalable solution based on POC findings
+    solution = drew.create_proposal(
+        poc,
+        priorities=[
+            stakeholder_requirements,
+            "Security", 
+            "Efficiency", 
+            "Reliability", 
+            "Flexibility"
+        ]
+    )
+    
+    # Enable the team
+    drew.distribute_tasks(team, solution.implementation_plan)
+    drew.mentor_and_review(team)
+```
+
+## 🤝 Contributing
+
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any "contributions" (job offers, freelance work, energetic discussions) you make are **greatly appreciated**.
+
+1.  **Fork the Project**: Review my background on [Portfolio][portfolio] and [LinkedIn][linkedin].
+2.  **Create your Feature Branch**: Identify the opportunity or problem to solve (`git checkout -b feature/NextBigThing`).
+3.  **Commit your Proposal**: Draft a message to get in touch (`git commit -m 'Add Andrew to Team'`).
+4.  **Push to Origin**: Send me an email or LinkedIn message (`git push origin email`).
+5.  **Open a Pull Request**: Let's schedule a time to chat!
+
+## 📝 License
+
+Free and Open Source - Always! See `CONTACT` for more information.
+
+## 👤 Authors
+
+*  **Mom & Dad** - *Initial work*
+*  **University of Tennessee Chattanooga** - *Added Critical Thinking* - [UTC](https://utc.edu)
+*  **Howmet Aerospace** - *Added Engineering Skills* - [Howmet](https://howmet.com)
+*  **Vanderbilt University Medical Center** - *Added Technical Capability* - [VUMC](https://vumc.org)
+*  **DraftKings Inc.** - *Added Leadership Features* - [DraftKings](https://draftkings.com)
 
 
+Built with ❤️ by Drew.
 
-
-<!-- Github Stats -->
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=armckinney&theme=onedark&show_icons=true&count_private=true">
-</div>
-</br>
-
-<!-- Technologies -->
-<div align="center">
-    <h2>Some of My Favorite Technologies</h2>
-    <a href="https://code.visualstudio.com/">
-        <img src="./static/images/vscode.png?raw=true"/>
-    </a>
-    <a href="https://git-scm.com/">
-        <img src="./static/images/git.png?raw=true"/>
-    </a>
-    <a href="https://about.gitlab.com/">
-        <img src="./static/images/gitlab.png?raw=true"/>
-    </a>
-    <a href="https://www.docker.com/">
-        <img src="./static/images/docker.png?raw=true"/>
-    </a>
-    <a href="https://ubuntu.com/">
-        <img src="./static/images/ubuntu.png?raw=true"/>
-    </a>
-    <a href="https://azure.microsoft.com/en-us/">
-        <img src="./static/images/azure.png?raw=true"/>
-    </a>
-    <a href="https://www.databricks.com/">
-        <img src="./static/images/databricks.png?raw=true"/>
-    </a>
-</div>
-<div align="center">
-    <a href="https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-whatis">
-        <img src="./static/images/azuread.png?raw=true"/>
-    </a>
-    <a href="https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/">
-        <img src="./static/images/bicep.png?raw=true"/>
-    </a>
-    <a href="https://www.terraform.io/">
-        <img src="./static/images/terraform.png?raw=true"/>
-    </a>
-    <a href="https://www.python.org/">
-        <img src="./static/images/python.png?raw=true"/>
-    </a>
-    <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)">
-        <img src="./static/images/bash.png?raw=true"/>
-    </a>
-    <a href="https://docs.microsoft.com/en-us/powershell/">
-        <img src="./static/images/powershell.png?raw=true"/>
-    </a>
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
-        <img src="./static/images/c-sharp.png?raw=true"/>
-    </a>
-    <a href="https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet">
-        <img src="./static/images/dotnet.png?raw=true"/>
-    </a>
-</div>
-<div align="center">
-    <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor">
-        <img src="./static/images/blazor.png?raw=true"/>
-    </a>
-    <a href="https://fastapi.tiangolo.com/">
-        <img src="./static/images/fastapi.png?raw=true"/>
-    </a>
-    <a href="https://getbootstrap.com/">
-        <img src="./static/images/bootstrap.png?raw=true"/>
-    </a>
-    <a href="https://spark.apache.org/">
-        <img src="./static/images/spark.png?raw=true"/>
-    </a>
-    <a href="https://www.tensorflow.org/">
-        <img src="./static/images/tensorflow.png?raw=true"/>
-    </a>
-    <a href="https://docs.delta.io/latest/delta-storage.html">
-        <img src="./static/images/delta.png?raw=true"/>
-    </a>
-    <a href="https://powerbi.microsoft.com/en-us/">
-        <img src="./static/images/powerbi.png?raw=true"/>
-    </a>
-</div>
-<div align="center">
-    <h5 style="margin-bottom: 0; margin-top: 30">
-        Can't find what you're looking for? 
-    </h5>
-    <h6 style="margin-top: 0">
-        There's many more I have experience with listed on my <a href="https://www.linkedin.com/in/drew-mckinney/details/skills/">LinkedIn Skills</a>!
-    </h6>
-</div>
-</br>
-
-
-<!-- Connect-->
-<div align="center">
-    <h2>Connect</h2>
-    <a href="https://www.linkedin.com/in/drew-mckinney/">
-        <img src="./static/images/linkedin.png"/>
-    </a>
-    <a href="https://armckinney.github.io">
-        <img src="./static/images/arm-sciences.png"/>
-    </a>
-    <a href="https://hub.docker.com/u/armck">
-        <img src="./static/images/dockerhub.png">
-    </a>
-</div>
-
-<!-- Icon Source: https://icons8.com/ -->
+<!-- variables -->
+[linkedin]: https://linkedin.com/in/drew-mckinney
+[portfolio]: https://armckinney.dev
