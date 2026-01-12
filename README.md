@@ -5,7 +5,7 @@
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
 [![Portfolio](https://img.shields.io/badge/demo-armckinney.dev-blueviolet.svg)](https://armckinney.dev)
 
-Platform Engineer, AI Enthusiast, and Innovative Problem Solver. I specialize in building scalable applications, architecting cost-effective cloud infrastructure, and enhancing user experience and composable architectures.
+Innovative and results-oriented software engineer with over 5 years of experience leading the design and development of elastic scaling platforms using cloud and distributed systems. Proven expertise in networking, security, data, system and software design through implementing solutions that are secure, reliable, performant, and flexible. Driven by strong values in autonomy, creativity, and entrepreneurship, balanced with integrity, humility and open-mindedness.
 
 I hope you find the following information both informative and enjoyable!
 
@@ -94,3 +94,4 @@ Built with ❤️ by Drew.
 <!-- variables -->
 [linkedin]: https://linkedin.com/in/drew-mckinney
 [portfolio]: https://armckinney.dev
+
