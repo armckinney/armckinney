@@ -11,19 +11,15 @@ My focus is on creating Force Multiplier effects—designing the abstractions an
 
 I believe that the best technical solutions are born at the intersection of Strategic Planning and Technical Humility. I don’t just build for the current requirements; I architect for the "next order of magnitude," ensuring that complexity is managed through elegant abstractions rather than brute-force engineering.
 
-My Operating Principles:
-• Autonomy & Entrepreneurship: I treat platforms as products, focusing on self-service infrastructure that allows developers to move faster without friction.
+My Operating Principles:  
+• Autonomy & Entrepreneurship: I treat platforms as products, focusing on self-service infrastructure that allows developers to move faster without friction.  
+• Integrity & Open-Mindedness: I prioritize the best architectural outcome over personal ego, fostering a culture of rigorous peer review and collaborative problem-solving.  
+• Creative Scaling: I enjoy solving the "unsolved" problems inherent in distributed environments—finding creative ways to balance performance, security, and flexibility.  
 
-• Integrity & Open-Mindedness: I prioritize the best architectural outcome over personal ego, fostering a culture of rigorous peer review and collaborative problem-solving.
-
-• Creative Scaling: I enjoy solving the "unsolved" problems inherent in distributed environments—finding creative ways to balance performance, security, and flexibility.
-
-Core Competencies:
-• Systems Architecture: Distributed Systems, Data Movement, & Cloud-Native Infrastructure.
-
-• Technical Leadership: Strategic Roadmap Planning, Cross-functional Alignment, & Engineering Mentorship.
-
-• Platform Engineering: Designing for Scale, System Design, & Developer Experience (DevEx).
+Core Competencies:  
+• Systems Architecture: Distributed Systems, Data Movement, & Cloud-Native Infrastructure.  
+• Technical Leadership: Strategic Roadmap Planning, Cross-functional Alignment, & Engineering Mentorship.  
+• Platform Engineering: Designing for Scale, System Design, & Developer Experience (DevEx).  
 
 </br>
 
@@ -114,5 +110,6 @@ Built with ❤️ by Drew.
 <!-- variables -->
 [linkedin]: https://linkedin.com/in/drew-mckinney
 [portfolio]: https://armckinney.dev
+
 
 
