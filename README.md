@@ -7,7 +7,7 @@
 
 Technical Lead specialized in the architecture, scaling, and evolution of Distributed Systems and Core Infrastructure.
 
-My focus is on creating Force Multiplier effects—designing the abstractions and scalable primitives that empower engineering teams to deliver at speed. At DraftKings, I lead the design of high-throughput platforms where N-Scaling, data movement efficiency, and system resilience are mission-critical.
+My focus is on creating Force Multiplier effects—designing the abstractions and scalable primitives that empower engineering teams to deliver at speed. At DraftKings, I lead the design of high-throughput platform products where N-Scaling, data movement efficiency, and system resilience are mission-critical.
 
 I believe that the best technical solutions are born at the intersection of Strategic Planning and Technical Humility. I don’t just build for the current requirements; I architect for the "next order of magnitude," ensuring that complexity is managed through elegant abstractions rather than brute-force engineering.
 
@@ -110,6 +110,7 @@ Built with ❤️ by Drew.
 <!-- variables -->
 [linkedin]: https://linkedin.com/in/drew-mckinney
 [portfolio]: https://armckinney.dev
+
 
 
 
