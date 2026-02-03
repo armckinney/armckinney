@@ -1,7 +1,7 @@
 # Andrew McKinney
 
 ![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)
-![Years of Experience](https://img.shields.io/badge/experience-5%2B%20years-orange.svg)
+![Years of Experience](https://img.shields.io/badge/experience-6%2B%20years-orange.svg)
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
 [![Portfolio](https://img.shields.io/badge/demo-armckinney.dev-blueviolet.svg)](https://armckinney.dev)
 
@@ -25,7 +25,7 @@ Core Competencies:
 
 I hope you find the following information both informative and entertaining!
 
-**[Explore my Portfolio »][portfolio]**
+**[Connect on LinkedIn »][linkedin]**  
 
 ---
 
@@ -110,6 +110,7 @@ Built with ❤️ by Drew.
 <!-- variables -->
 [linkedin]: https://linkedin.com/in/drew-mckinney
 [portfolio]: https://armckinney.dev
+
 
 
 
