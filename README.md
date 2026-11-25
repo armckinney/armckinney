@@ -1,9 +1,9 @@
 # Andrew McKinney
 
-![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)
+![Version](https://img.shields.io/badge/version-5.0.0-blue.svg)
 ![Years of Experience](https://img.shields.io/badge/experience-6%2B%20years-orange.svg)
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
-[![Portfolio](https://img.shields.io/badge/demo-armckinney.dev-blueviolet.svg)](https://armckinney.dev)
+[![Linkedin](https://img.shields.io/badge/demo-LinkedIn-blueviolet.svg)][linkedin]
 
 Technical Lead specialized in the architecture, scaling, and evolution of Distributed Systems and Core Infrastructure.
 
@@ -86,7 +86,7 @@ while project.is_active():
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any "contributions" (job offers, freelance work, energetic discussions) you make are **greatly appreciated**.
 
-1.  **Fork the Project**: Review my background on [Portfolio][portfolio] and [LinkedIn][linkedin].
+1.  **Fork the Project**: Review my background on [LinkedIn][linkedin].
 2.  **Create your Feature Branch**: Identify the opportunity or problem to solve (`git checkout -b feature/NextBigThing`).
 3.  **Commit your Proposal**: Draft a message to get in touch (`git commit -m 'Add Andrew to Team'`).
 4.  **Push to Origin**: Send me an email or LinkedIn message (`git push origin email`).
@@ -109,8 +109,6 @@ Built with ❤️ by Drew.
 
 <!-- variables -->
 [linkedin]: https://linkedin.com/in/drew-mckinney
-[portfolio]: https://armckinney.dev
-
 
 
 
